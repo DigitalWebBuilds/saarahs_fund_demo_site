@@ -24,6 +24,12 @@
   "prefer_related_applications": false,
   "shortcuts": [
     {
+      "name": "Donate",
+      "short_name": "Donate",
+      "description": "Donate to Saarah's Fund",
+      "url": "/donate"
+    },
+    {
       "name": "About Saarah",
       "short_name": "About",
       "description": "Learn about Saarah",
